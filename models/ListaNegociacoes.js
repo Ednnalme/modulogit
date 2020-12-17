@@ -1,5 +1,5 @@
 class ListaNegociacoes {
-    
+    //---yyyy
     constructor() {
         
         this._negociacoes = [];
